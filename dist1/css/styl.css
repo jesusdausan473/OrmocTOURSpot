@@ -1,0 +1,25 @@
+
+/* CSS Document */
+
+
+ 
+body{
+	background-image:url(/image/ormoc-city2020.jpg);
+	background-repeat: repeat;
+    }
+body{
+   height: 2000px;	
+}
+body{
+  background-color: rgb(141, 220, 231);
+}	
+header{
+	color: white;
+}
+image{
+  height: 3000px;
+  width: 3400px;
+  padding-left: 50px ;	
+}  
+
+
